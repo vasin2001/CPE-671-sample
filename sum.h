@@ -1,1 +1,1 @@
-extern int findSum(int num);
+extern int findSum(int num1, num2);
