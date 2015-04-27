@@ -1,1 +1,1 @@
-extern int difference(int num1,int num 2) 
+extern int difference(int num1,int num2) 
