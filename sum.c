@@ -1,13 +1,7 @@
 int findSum(sum);
   {
-    int num,sum=0,r;
-    
-    while(num){
-      r=num%10;
-      num=num/10;
-      sum=sum+r;
-  }
-  
-    return findSum;
+    int num1,num2,sum;
+      sum=num1+num2;
+      return sum;
   }
  
